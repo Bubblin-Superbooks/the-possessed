@@ -1,0 +1,22 @@
+{
+  "name": "The Possessed",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "The Devils",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-possessed/master/assets",
+  "book_id": 937,
+  "book_url": "https://bubblin.io/book/the-possessed-by-fyodor-dostoyevsky"
+}
